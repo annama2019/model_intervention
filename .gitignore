@@ -1,2 +1,2 @@
-*.tar.gz
-*.ipynb_checkpoints
+.tar.gz
+.ipynb_checkpoints
